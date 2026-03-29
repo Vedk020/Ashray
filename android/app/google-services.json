@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911441718629",
+    "project_id": "ashray-442b4",
+    "storage_bucket": "ashray-442b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911441718629:android:e0bf4207509725f81d458c",
+        "android_client_info": {
+          "package_name": "com.example.ashray"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qZUtjU6K-h5q_i3wzLR9nVoDDOLiAuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

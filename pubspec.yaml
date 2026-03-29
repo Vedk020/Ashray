@@ -1,0 +1,67 @@
+name: ashray
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Your existing packages (versions might be slightly different but should be compatible)
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  connectivity_plus: ^6.0.3
+  dio: ^5.4.3+1
+  image_picker: ^1.1.2
+  mobile_scanner: ^5.1.1
+  speech_to_text: ^7.3.0
+  flutter_animate: ^4.5.0
+  animations: ^2.0.11
+  flutter_staggered_grid_view: ^0.7.0
+  video_player: ^2.8.6
+  chewie: ^1.8.1
+
+  cupertino_icons: ^1.0.2
+
+  fl_chart: ^0.66.2
+
+
+  google_mlkit_text_recognition: ^0.11.0
+
+    # Pinned to the exact version required by the Flutter SDK
+  intl: 0.20.2
+
+  # PDF and Sharing packages with compatible versions
+  pdf: ^3.10.8
+  printing: ^5.14.0
+  share_plus: ^12.0.0 # <-- Upgraded to resolve the conflict
+  url_launcher: ^6.3.0
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/fonts/NotoSansDevanagari-VariableFont_wdth,wght.ttf
+    - assets/images/
+
+  fonts:
+    - family: NotoSansDevanagari
+      fonts:
+        - asset: assets/fonts/NotoSansDevanagari-VariableFont_wdth,wght.ttf
+

@@ -1,0 +1,86 @@
+{
+  "appTitle": "Ashray (आश्रय)",
+  "healthCompanion": "Your Health Companion",
+  "loginTitle": "Login",
+  "ashaWorker": "ASHA Worker",
+  "citizen": "Citizen",
+  "loginId": "Login ID",
+  "password": "Password",
+  "navHome": "Home",
+  "navSearch": "Search",
+  "navReels": "Reels",
+  "navMissions": "Missions",
+  "navProfile": "Profile",
+  "settings": "Settings",
+  "logout": "Logout",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "manualSync": "Manual Sync",
+  "syncSubtitle": "Push offline data to the server",
+  "achievements": "My Achievements",
+  "help": "Help",
+  "guide": "Guide",
+  "helpline": "Helpline",
+  "reportIssue": "Report an Issue",
+  "selectLanguage": "Select Language",
+  "sosAlert": "SOS Alert Triggered!",
+  "aiCopilot": "AI Copilot",
+  "greeting": "👩‍⚕️ Namaste {userName},",
+  "@greeting": {
+    "placeholders": {
+      "userName": {
+        "type": "String"
+      }
+    }
+  },
+  "progressToday": "Here is your progress for today.",
+  "aiHealthCopilot": "AI Health Copilot",
+  "detectIllnessPrompt": "Take a photo to detect illness",
+  "myTasks": "My Tasks",
+  "tasksDue": "{count, plural, =0{No tasks due} =1{1 task due} other{{count} tasks due}}",
+  "@tasksDue": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "scanAadhar": "Scan Aadhar",
+  "myMissions": "My Missions",
+  "weeklyAnalytics": "Weekly Analytics",
+  "familiesVisitedThisWeek": "Families Visited This Week",
+  "dayMon": "Mon",
+  "dayTue": "Tue",
+  "dayWed": "Wed",
+  "dayThu": "Thu",
+  "dayFri": "Fri",
+  "daySat": "Sat",
+  "quote1": "🌸 Healthy Gaon, Strong Bharat. 🌸",
+  "quote2": "🌸 Swasth Gaon, Samruddh Bharat. 🌸",
+  "quote3": "🌸 Aapki Seva, Desh Ki Seva. 🌸",
+  "gamificationHint": "Level up to be eligible for promotions and stipend bonuses!",
+  "syncingNow": "Syncing now...",
+  "nationalHealthPrograms": "Health Programs",
+  "progAyushmanBharat": "Ayushman Bharat PM-JAY",
+  "descAyushmanBharat": "Provides health coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+  "progJSSK": "Janani Shishu Suraksha Karyakram (JSSK)",
+  "descJSSK": "Entitles pregnant women to free delivery, including caesarean section, in public health institutions.",
+  "progRBSK": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+  "descRBSK": "An initiative for early identification and intervention for children from birth to 18 years to cover defects at birth, deficiencies, diseases, development delays.",
+  "progPMNDP": "Pradhan Mantri National Dialysis Programme",
+  "descPMNDP": "Supports dialysis facilities in all district hospitals for free or subsidized care to patients with end-stage renal disease.",
+  "voiceAssistant": "Voice Assistant",
+  "listening": "Listening...",
+  "trySaying": "Try saying: 'Open Search', 'My Tasks', or 'Health Programs'",
+  "selectVillage": "Select Village",
+  "selectFamily": "Select Family",
+  "scanAadharQR": "Scan Aadhar QR",
+  "noPendingTasks": "No pending tasks",
+  "myFamily": "My Family",
+  "viewSchedule": "View Schedule",
+  "viewHealthDetails": "View Health Details",
+  "yourHealthQRCode": "Your Health QR Code",
+  "search": "Search",
+  "profile": "Profile"
+}
+
