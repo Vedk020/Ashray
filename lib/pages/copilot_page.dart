@@ -16,7 +16,7 @@ class CopilotPage extends StatefulWidget {
 }
 
 class _CopilotPageState extends State<CopilotPage> {
-  final String _apiKey = 'AIzaSyBUVr8I7M2NcSo1ofm-FxngXyU0gCsYTN8';
+  final String _apiKey = 'API KEY GOES HERE';
 
   File? _image;
   final ImagePicker _picker = ImagePicker();
